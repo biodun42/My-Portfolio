@@ -92,7 +92,7 @@
 }
 @media screen and (max-width: 671px) {
   #contact{
-    margin-bottom: 2rem;
+    margin-bottom: 10rem;
   }
   #arrow {
     display: none;
