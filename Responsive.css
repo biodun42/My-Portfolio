@@ -52,6 +52,7 @@
 @media screen and (max-width: 804px) {
   header{
     padding: 0 1rem;
+    margin-bottom: -3rem;
   }
   .nav-links {
     display: none;
