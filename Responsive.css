@@ -75,10 +75,10 @@
   @keyframes miles {
     0%,
     100% {
-      top: 60px;
+      top: 100px;
     }
     50% {
-      top: -50px;
+      top: -100px;
     }
   }
 }
