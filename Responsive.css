@@ -148,6 +148,9 @@
   }
 }
 @media screen and (max-width: 490px) {
+  #profile-pic{
+    padding: 0.5rem;
+  }
   #contact {
     padding: 0.5rem;
   }
