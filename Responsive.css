@@ -225,6 +225,10 @@
       top: -20px;
     }
   }
+  .title-project,
+  .profile_text_p1{
+    margin-bottom: 5rem;
+  }
 }
 @media screen and (max-width: 460px) {
   .btn-container{
